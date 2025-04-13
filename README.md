@@ -1,6 +1,10 @@
 # FirstAngularApp
 
-This Sush project* was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
+<<<<<<< HEAD
+This Sush project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
+=======
+This project Shlok ICSE was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
+>>>>>>> 389d73d4f10627b35e198eaa9d15d9d6006552f6
 
 ## Development server
 
